@@ -5,3 +5,4 @@ Telethon==1.26.1
 wolframalpha==5.0
 chromadb
 aiohttp
+chroma-migrate
